@@ -28,26 +28,86 @@ jobs:
         run: |
           set -e
           flutter create . --platforms=android --project-name zana || true
+
+          # Only Groovy scripts — remove Kotlin DSL that Flutter may drop in
           rm -f android/build.gradle.kts android/app/build.gradle.kts android/settings.gradle.kts
 
           mkdir -p android/gradle/wrapper android/app
-          printf '%s\n' \
-            'distributionBase=GRADLE_USER_HOME' \
-            'distributionPath=wrapper/dists' \
-            'zipStoreBase=GRADLE_USER_HOME' \
-            'zipStorePath=wrapper/dists' \
-            'distributionUrl=https\://services.gradle.org/distributions/gradle-8.14-all.zip' \
-            > android/gradle/wrapper/gradle-wrapper.properties
 
-          if [ -f android/settings.gradle ]; then
-            sed -i 's/id "com.android.application" version "[^"]*"/id "com.android.application" version "8.11.1"/g' android/settings.gradle || true
-            sed -i 's/id "org.jetbrains.kotlin.android" version "[^"]*"/id "org.jetbrains.kotlin.android" version "2.2.20"/g' android/settings.gradle || true
-          fi
+          # Gradle wrapper
+          cat > android/gradle/wrapper/gradle-wrapper.properties << 'PROP'
+          distributionBase=GRADLE_USER_HOME
+          distributionPath=wrapper/dists
+          zipStoreBase=GRADLE_USER_HOME
+          zipStorePath=wrapper/dists
+          distributionUrl=https\://services.gradle.org/distributions/gradle-8.11.1-all.zip
+          PROP
+          sed -i 's/^          //' android/gradle/wrapper/gradle-wrapper.properties
 
+          # Root build.gradle WITHOUT evaluationDependsOn(:app)
+          cat > android/build.gradle << 'ROOT'
+          allprojects {
+              repositories {
+                  google()
+                  mavenCentral()
+              }
+          }
+
+          rootProject.buildDir = "../build"
+          subprojects {
+              project.buildDir = "${rootProject.buildDir}/${project.name}"
+          }
+
+          tasks.register("clean", Delete) {
+              delete rootProject.buildDir
+          }
+          ROOT
+          sed -i 's/^          //' android/build.gradle
+
+          # settings.gradle — AGP 8.9.1 (not AGP 9)
+          cat > android/settings.gradle << 'SET'
+          pluginManagement {
+              def flutterSdkPath = {
+                  def properties = new Properties()
+                  file("local.properties").withInputStream { properties.load(it) }
+                  def flutterSdkPath = properties.getProperty("flutter.sdk")
+                  assert flutterSdkPath != null, "flutter.sdk not set in local.properties"
+                  return flutterSdkPath
+              }()
+
+              includeBuild("$flutterSdkPath/packages/flutter_tools/gradle")
+
+              repositories {
+                  google()
+                  mavenCentral()
+                  gradlePluginPortal()
+              }
+          }
+
+          plugins {
+              id "dev.flutter.flutter-plugin-loader" version "1.0.0"
+              id "com.android.application" version "8.9.1" apply false
+              id "org.jetbrains.kotlin.android" version "2.1.0" apply false
+          }
+
+          include ":app"
+          SET
+          sed -i 's/^          //' android/settings.gradle
+
+          cat > android/gradle.properties << 'GP'
+          org.gradle.jvmargs=-Xmx4G -XX:MaxMetaspaceSize=2G -XX:+HeapDumpOnOutOfMemoryError
+          android.useAndroidX=true
+          android.enableJetifier=true
+          android.defaults.buildfeatures.resvalues=true
+          android.nonTransitiveRClass=true
+          android.suppressUnsupportedCompileSdk=36
+          GP
+          sed -i 's/^          //' android/gradle.properties
+
+          # Restore keystore
           if [ ! -f android/app/upload-keystore.jks ] && [ -f keys/zana-release.jks ]; then
             cp keys/zana-release.jks android/app/upload-keystore.jks
           fi
-
           if [ ! -f android/key.properties ]; then
             printf '%s\n' \
               'storePassword=ZANA55800510' \
@@ -56,14 +116,11 @@ jobs:
               'storeFile=upload-keystore.jks' \
               > android/key.properties
           fi
+          test -f android/app/upload-keystore.jks
+          test -f android/key.properties
 
-          if [ ! -f android/app/upload-keystore.jks ]; then
-            echo "ERROR: upload-keystore.jks missing"
-            ls -la android/app keys || true
-            exit 1
-          fi
-
-          cat > android/app/build.gradle << 'GRADLE'
+          # app/build.gradle signed release
+          cat > android/app/build.gradle << 'APP'
           plugins {
               id "com.android.application"
               id "kotlin-android"
@@ -121,12 +178,13 @@ jobs:
           }
 
           dependencies {}
-          GRADLE
+          APP
           sed -i 's/^          //' android/app/build.gradle
 
-          echo "--- signing check ---"
-          ls -la android/app/upload-keystore.jks android/key.properties
-          cat android/key.properties
+          echo "=== android root build.gradle ==="
+          cat android/build.gradle
+          echo "=== settings plugins ==="
+          grep -n "com.android\|kotlin" android/settings.gradle
 
       - name: Pub get
         run: flutter pub get
