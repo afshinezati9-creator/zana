@@ -9,13 +9,6 @@ rootProject.buildDir = "../build"
 subprojects {
     project.buildDir = "${rootProject.buildDir}/${project.name}"
 }
-subprojects {
-    afterEvaluate { project ->
-        if (project.hasProperty("android")) {
-            // no-op: keep evaluation order safe for Flutter
-        }
-    }
-}
 
 tasks.register("clean", Delete) {
     delete rootProject.buildDir

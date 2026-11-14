@@ -514,6 +514,7 @@ _SectionTitle(
           ),
         ),
 
+
         _SectionTitle(title: 'منابع علمی معتبر', palette: palette),
         Padding(
           padding: const EdgeInsets.symmetric(horizontal: 16),
