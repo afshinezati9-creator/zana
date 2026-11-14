@@ -1,0 +1,310 @@
+[
+  {
+    "id": "review_rumination",
+    "n": "Rethinking Rumination (Nolen-Hoeksema et al., 2008)",
+    "type": "مقاله مروری",
+    "desc": "مقاله مروری کلاسیک درباره نشخوار فکری، سازوکارها و ارتباط با خلق و اضطراب. Perspectives on Psychological Science.",
+    "url": "https://doi.org/10.1111/j.1745-6924.2008.00088.x"
+  },
+  {
+    "id": "review_cbt",
+    "n": "The Efficacy of CBT: Meta-analyses (Hofmann et al., 2012)",
+    "type": "مقاله مروری",
+    "desc": "مرور فراتحلیل‌ها درباره اثربخشی درمان شناختی-رفتاری در اختلالات مختلف.",
+    "url": "https://doi.org/10.1007/s10608-012-9476-1"
+  },
+  {
+    "id": "review_burnout",
+    "n": "Understanding Burnout (Maslach & Leiter, 2016)",
+    "type": "مقاله مروری",
+    "desc": "مرور پژوهش‌های فرسودگی شغلی و دلالت‌های بالینی. World Psychiatry.",
+    "url": "https://doi.org/10.1002/wps.20311"
+  },
+  {
+    "id": "review_insomnia",
+    "n": "Chronic Insomnia (Morin & Benca, 2012)",
+    "type": "مقاله مروری",
+    "desc": "مقاله مروری لنست درباره بی‌خوابی مزمن، ارزیابی و رویکردهای درمانی.",
+    "url": "https://doi.org/10.1016/S0140-6736(11)60750-2"
+  },
+  {
+    "id": "who_wmh2022",
+    "n": "WHO World Mental Health Report (2022)",
+    "type": "گزارش رسمی",
+    "desc": "گزارش جامع سازمان بهداشت جهانی درباره وضعیت سلامت روان جهان و اولویت‌های تحول نظام مراقبت.",
+    "url": "https://www.who.int/publications/i/item/9789240049338"
+  },
+  {
+    "id": "ncs_r",
+    "n": "NCS-R Lifetime Prevalence (Kessler et al., 2005)",
+    "type": "مقاله پژوهشی",
+    "desc": "شیوع طول عمر اختلالات در پیمایش ملی همبودی آمریکا؛ مرجع کلاسیک اپیدمیولوژی.",
+    "url": "https://doi.org/10.1001/archpsyc.62.6.593"
+  },
+  {
+    "id": "apa",
+    "n": "انجمن روان‌شناسی آمریکا (APA)",
+    "type": "بین‌المللی",
+    "desc": "راهنماها، مقالات داوری‌شده و استانداردهای اخلاق حرفه‌ای در روان‌شناسی.",
+    "url": "https://www.apa.org"
+  },
+  {
+    "id": "who",
+    "n": "سازمان بهداشت جهانی (WHO)",
+    "type": "بین‌المللی",
+    "desc": "منابع سلامت روان، پیشگیری و طبقه‌بندی‌های سلامت در سطح جهانی.",
+    "url": "https://www.who.int"
+  },
+  {
+    "id": "nimh",
+    "n": "مؤسسه ملی سلامت روان آمریکا (NIMH)",
+    "type": "بین‌المللی",
+    "desc": "پژوهش و اطلاعات مبتنی بر شواهد درباره اختلالات روان و درمان‌ها.",
+    "url": "https://www.nimh.nih.gov"
+  },
+  {
+    "id": "cochrane",
+    "n": "کاکرین (Cochrane)",
+    "type": "بین‌المللی",
+    "desc": "مرورهای نظام‌مند مستقل برای ارزیابی اثربخشی مداخلات سلامت.",
+    "url": "https://www.cochrane.org"
+  },
+  {
+    "id": "nami",
+    "n": "اتحاد ملی بیماری‌های روانی (NAMI)",
+    "type": "بین‌المللی",
+    "desc": "آموزش و حمایت برای افراد و خانواده‌ها در حوزه سلامت روان.",
+    "url": "https://www.nami.org"
+  },
+  {
+    "id": "minduk",
+    "n": "Mind (بریتانیا)",
+    "type": "بین‌المللی",
+    "desc": "اطلاعات کاربردی سلامت روان و مسیرهای دریافت کمک.",
+    "url": "https://www.mind.org.uk"
+  },
+  {
+    "id": "nhs",
+    "n": "NHS Mental Health",
+    "type": "بین‌المللی",
+    "desc": "راهنماهای عمومی سلامت روان سرویس سلامت ملی بریتانیا.",
+    "url": "https://www.nhs.uk/mental-health"
+  },
+  {
+    "id": "camh",
+    "n": "CAMH",
+    "type": "بین‌المللی",
+    "desc": "مرکز اعتیاد و سلامت روان کانادا؛ منابع آموزشی و پژوهشی.",
+    "url": "https://www.camh.ca"
+  },
+  {
+    "id": "iasp",
+    "n": "انجمن بین‌المللی پیشگیری از خودکشی (IASP)",
+    "type": "بین‌المللی",
+    "desc": "شبکه جهانی پیشگیری از خودکشی و منابع ارجاع.",
+    "url": "https://www.iasp.info"
+  },
+  {
+    "id": "afsp",
+    "n": "بنیاد آمریکایی پیشگیری از خودکشی (AFSP)",
+    "type": "بین‌المللی",
+    "desc": "آموزش، پژوهش و حمایت در پیشگیری از خودکشی.",
+    "url": "https://afsp.org"
+  },
+  {
+    "id": "samhsa",
+    "n": "SAMHSA",
+    "type": "بین‌المللی",
+    "desc": "خدمات سوءمصرف مواد و سلامت روان؛ منابع و خطوط کمک.",
+    "url": "https://www.samhsa.gov"
+  },
+  {
+    "id": "cdc_mh",
+    "n": "CDC — Mental Health",
+    "type": "بین‌المللی",
+    "desc": "داده‌ها و منابع سلامت روان مراکز کنترل بیماری آمریکا.",
+    "url": "https://www.cdc.gov/mentalhealth"
+  },
+  {
+    "id": "nice",
+    "n": "NICE (بریتانیا)",
+    "type": "بین‌المللی",
+    "desc": "راهنماهای مبتنی بر شواهد برای مراقبت‌های سلامت.",
+    "url": "https://www.nice.org.uk"
+  },
+  {
+    "id": "div12",
+    "n": "Society of Clinical Psychology",
+    "type": "بین‌المللی",
+    "desc": "مروری بر درمان‌های دارای پشتوانه پژوهشی.",
+    "url": "https://div12.org"
+  },
+  {
+    "id": "acbs",
+    "n": "ACBS (ACT)",
+    "type": "بین‌المللی",
+    "desc": "منابع مرتبط با درمان پذیرش و تعهد.",
+    "url": "https://contextualscience.org"
+  },
+  {
+    "id": "istss",
+    "n": "ISTSS",
+    "type": "بین‌المللی",
+    "desc": "پژوهش و آموزش درباره استرس پس از سانحه.",
+    "url": "https://istss.org"
+  },
+  {
+    "id": "adaa",
+    "n": "ADAA",
+    "type": "بین‌المللی",
+    "desc": "اطلاعات اضطراب و افسردگی برای عموم و متخصصان.",
+    "url": "https://adaa.org"
+  },
+  {
+    "id": "iocdf",
+    "n": "بنیاد بین‌المللی OCD",
+    "type": "بین‌المللی",
+    "desc": "آموزش و منابع درباره وسواس فکری-عملی.",
+    "url": "https://iocdf.org"
+  },
+  {
+    "id": "chadd",
+    "n": "CHADD (ADHD)",
+    "type": "بین‌المللی",
+    "desc": "حمایت و اطلاعات درباره ADHD.",
+    "url": "https://chadd.org"
+  },
+  {
+    "id": "sleepfdn",
+    "n": "Sleep Foundation",
+    "type": "بین‌المللی",
+    "desc": "آموزش خواب و بهداشت خواب.",
+    "url": "https://www.sleepfoundation.org"
+  },
+  {
+    "id": "pubmed",
+    "n": "PubMed",
+    "type": "بین‌المللی",
+    "desc": "پایگاه مقالات زیست‌پزشکی برای منابع اولیه.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov"
+  },
+  {
+    "id": "scholar",
+    "n": "Google Scholar",
+    "type": "بین‌المللی",
+    "desc": "جستجوی مقالات علمی و استنادها.",
+    "url": "https://scholar.google.com"
+  },
+  {
+    "id": "bps",
+    "n": "انجمن روان‌شناسی بریتانیا (BPS)",
+    "type": "بین‌المللی",
+    "desc": "منابع حرفه‌ای و عمومی روان‌شناسی.",
+    "url": "https://www.bps.org.uk"
+  },
+  {
+    "id": "unicef",
+    "n": "یونیسف — سلامت روان",
+    "type": "بین‌المللی",
+    "desc": "منابع حمایت از سلامت روان کودکان و نوجوانان.",
+    "url": "https://www.unicef.org"
+  },
+  {
+    "id": "who_emro",
+    "n": "WHO دفتر مدیترانه شرقی",
+    "type": "بین‌المللی",
+    "desc": "برنامه‌ها و گزارش‌های سلامت روان منطقه.",
+    "url": "https://www.emro.who.int"
+  },
+  {
+    "id": "iranpa",
+    "n": "انجمن روان‌شناسی ایران",
+    "type": "داخلی",
+    "desc": "انجمن حرفه‌ای روان‌شناسان ایران.",
+    "url": "https://iranpa.org"
+  },
+  {
+    "id": "behdasht",
+    "n": "وزارت بهداشت",
+    "type": "داخلی",
+    "desc": "سامانه‌ها و سیاست‌های رسمی سلامت در ایران.",
+    "url": "https://behdasht.gov.ir"
+  },
+  {
+    "id": "behzisti",
+    "n": "سازمان بهزیستی کشور",
+    "type": "داخلی",
+    "desc": "خدمات مشاوره و حمایت اجتماعی؛ خط ۱۴۸۰.",
+    "url": "https://behzisti.ir"
+  },
+  {
+    "id": "irimc",
+    "n": "نظام پزشکی ایران",
+    "type": "داخلی",
+    "desc": "مرجع حرفه‌ای پزشکان.",
+    "url": "https://irimc.org"
+  },
+  {
+    "id": "sid",
+    "n": "پایگاه SID",
+    "type": "داخلی",
+    "desc": "مقالات و نشریات علمی فارسی.",
+    "url": "https://www.sid.ir"
+  },
+  {
+    "id": "magiran",
+    "n": "مگیران",
+    "type": "داخلی",
+    "desc": "فهرست مقالات نشریات ایرانی.",
+    "url": "https://www.magiran.com"
+  },
+  {
+    "id": "civilica",
+    "n": "سیویلیکا",
+    "type": "داخلی",
+    "desc": "مقالات همایش‌ها و نشریات علمی فارسی.",
+    "url": "https://civilica.com"
+  },
+  {
+    "id": "msrt",
+    "n": "وزارت علوم",
+    "type": "داخلی",
+    "desc": "فضای آموزش عالی؛ مراکز مشاوره دانشگاهی را در سایت دانشگاه خود ببین.",
+    "url": "https://www.msrt.ir"
+  },
+  {
+    "id": "line123",
+    "n": "اورژانس اجتماعی ۱۲۳",
+    "type": "داخلی",
+    "desc": "خط اضطراری اجتماعی ۲۴ ساعته.",
+    "url": "https://behzisti.ir"
+  },
+  {
+    "id": "line1570",
+    "n": "سامانه سلامت روان ۱۵۷۰",
+    "type": "داخلی",
+    "desc": "مشاوره تلفنی مرتبط با وزارت بهداشت.",
+    "url": "https://behdasht.gov.ir"
+  },
+  {
+    "id": "mayoclinic",
+    "n": "Mayo Clinic — Mental Health",
+    "type": "بین‌المللی",
+    "desc": "توضیحات عمومی قابل‌فهم درباره علائم و مراقبت.",
+    "url": "https://www.mayoclinic.org/diseases-conditions"
+  },
+  {
+    "id": "harvard_health",
+    "n": "Harvard Health",
+    "type": "بین‌المللی",
+    "desc": "مقالات سلامت روان برای عموم از منابع دانشگاهی.",
+    "url": "https://www.health.harvard.edu"
+  },
+  {
+    "id": "stanford_mh",
+    "n": "Stanford Medicine — Psychiatry",
+    "type": "بین‌المللی",
+    "desc": "منابع آموزشی و پژوهشی روان‌پزشکی.",
+    "url": "https://med.stanford.edu/psychiatry.html"
+  }
+]

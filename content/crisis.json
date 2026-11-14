@@ -1,0 +1,87 @@
+{
+  "phones": [
+    {
+      "n": "اورژانس اجتماعی",
+      "num": "123",
+      "desc": "۲۴ ساعته · فوری"
+    },
+    {
+      "n": "صدای مشاور بهزیستی",
+      "num": "1480",
+      "desc": "رایگان · مشاوره روانی"
+    },
+    {
+      "n": "سامانه سلامت روان",
+      "num": "1570",
+      "desc": "رایگان · وزارت بهداشت"
+    },
+    {
+      "n": "اورژانس پزشکی",
+      "num": "115",
+      "desc": "موارد فوری پزشکی"
+    }
+  ],
+  "online": [
+    {
+      "n": "بهزیستی",
+      "url": "https://behzisti.ir",
+      "desc": "خدمات مشاوره · سازمان بهزیستی",
+      "icon": "i-globe"
+    },
+    {
+      "n": "وزارت بهداشت",
+      "url": "https://behdasht.gov.ir",
+      "desc": "سامانه سلامت روان",
+      "icon": "i-globe"
+    },
+    {
+      "n": "انجمن روان‌شناسی ایران",
+      "url": "https://iranpa.org",
+      "desc": "یافتن روان‌شناس معتبر",
+      "icon": "i-globe"
+    },
+    {
+      "n": "WHO — سلامت روان",
+      "url": "https://www.who.int/health-topics/mental-health",
+      "desc": "سازمان بهداشت جهانی",
+      "icon": "i-globe"
+    },
+    {
+      "n": "APA",
+      "url": "https://www.apa.org/topics/mental-health",
+      "desc": "انجمن روان‌شناسی آمریکا",
+      "icon": "i-globe"
+    },
+    {
+      "n": "NIMH",
+      "url": "https://www.nimh.nih.gov/health",
+      "desc": "مؤسسه ملی سلامت روان آمریکا",
+      "icon": "i-globe"
+    },
+    {
+      "n": "IASP",
+      "url": "https://www.iasp.info/suicidalthoughts/",
+      "desc": "انجمن بین‌المللی پیشگیری از خودکشی",
+      "icon": "i-globe"
+    },
+    {
+      "n": "SAMHSA",
+      "url": "https://www.samhsa.gov/find-help",
+      "desc": "منابع کمک فوری و یافتن درمان",
+      "icon": "i-globe"
+    },
+    {
+      "n": "Mind (UK)",
+      "url": "https://www.mind.org.uk",
+      "desc": "سازمان خیریه سلامت روان بریتانیا",
+      "icon": "i-globe"
+    },
+    {
+      "n": "NHS Mental Health",
+      "url": "https://www.nhs.uk/mental-health/",
+      "desc": "خدمات ملی سلامت بریتانیا",
+      "icon": "i-globe"
+    }
+  ],
+  "disclaimer": "زانا درمان نیست. در مواقع بحرانی با خطوط بالا، افراد مورد اعتماد یا منابع بین‌المللی تماس بگیر."
+}

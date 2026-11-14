@@ -1,0 +1,92 @@
+[
+  {
+    "id": "burnout",
+    "n": "فرسودگی و پوچی",
+    "layer": 1,
+    "color": "#c9a96e",
+    "pinned": true,
+    "desc": "خستگی عمیق، بی‌انگیزگی و حس از دست رفتن معنا"
+  },
+  {
+    "id": "intrusive",
+    "n": "افکار مزاحم و از دست دادن کنترل",
+    "layer": 1,
+    "color": "#6fa8a0",
+    "pinned": true,
+    "desc": "نشخوار، افکار ناخواسته و فلج تصمیم"
+  },
+  {
+    "id": "storm",
+    "n": "طوفان هیجانی و پنیک",
+    "layer": 1,
+    "color": "#c98b8b",
+    "pinned": true,
+    "desc": "حملات ناگهانی اضطراب، خشم و نوسان خلق"
+  },
+  {
+    "id": "body_signal",
+    "n": "بدن فریاد می‌زند",
+    "layer": 1,
+    "color": "#8b9dc3",
+    "pinned": false,
+    "desc": "خواب، درد، گوارش و الگوهای خوردن مرتبط با استرس"
+  },
+  {
+    "id": "shame",
+    "n": "شرم و رفتارهای پنهان",
+    "layer": 2,
+    "color": "#a05a5a",
+    "pinned": true,
+    "adult": true,
+    "desc": "الگوهای اجباری پنهان؛ بخشی با دروازه ۱۸+"
+  },
+  {
+    "id": "inner_world",
+    "n": "دنیای درون",
+    "layer": 2,
+    "color": "#a89bc9",
+    "pinned": true,
+    "desc": "خیال‌پردازی افراطی و احساس جدا شدن از واقعیت"
+  },
+  {
+    "id": "body_image",
+    "n": "بدن و تصویر خود",
+    "layer": 2,
+    "color": "#c98b6b",
+    "pinned": false,
+    "desc": "رابطه دشوار با ظاهر و بدن"
+  },
+  {
+    "id": "neuro",
+    "n": "سیستم‌عامل متفاوت مغز",
+    "layer": 3,
+    "color": "#6b9bc9",
+    "pinned": false,
+    "desc": "تمرکز، یادگیری و حساسیت پردازشی متفاوت"
+  },
+  {
+    "id": "relation",
+    "n": "من در رابطه",
+    "layer": 4,
+    "color": "#b08ba0",
+    "pinned": false,
+    "desc": "الگوهای دلبستگی و تکرار در رابطه"
+  },
+  {
+    "id": "impulse",
+    "n": "اصطکاک با قواعد",
+    "layer": 4,
+    "color": "#a89c8b",
+    "pinned": false,
+    "desc": "تکانه، مرز و رفتار پرخطر"
+  },
+  {
+    "id": "cultural",
+    "n": "درد فرهنگی",
+    "layer": 5,
+    "color": "#8b9b6b",
+    "pinned": false,
+    "kind": "cultural_stress",
+    "desc": "فشار محیط و جامعه؛ بیماری فرد نیست"
+  }
+]

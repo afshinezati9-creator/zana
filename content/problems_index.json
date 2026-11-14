@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "academic_and_migration_success_pressure",
+    "n": "فشار موفقیت تحصیلی/مهاجرت",
+    "cat": "cultural",
+    "updatedAt": "2026-11-08T08:34:32.171Z"
+  },
+  {
+    "id": "academic_motivation_drop",
+    "n": "افت انگیزه تحصیلی (Academic Motivation Drop)",
+    "cat": "burnout",
+    "updatedAt": "2026-11-05T15:19:07.319Z"
+  },
+  {
+    "id": "adult_separation_anxiety",
+    "n": "اضطراب جدایی در بزرگسالی",
+    "cat": "storm",
+    "updatedAt": "2026-11-05T21:18:05.608Z"
+  },
+  {
+    "id": "ambiguity_in_commitment",
+    "n": "ابهام در تعهد",
+    "cat": "relation",
+    "updatedAt": "2026-11-08T07:26:07.947Z"
+  },
+  {
+    "id": "analysis_paralysis",
+    "n": "فلج تحلیل",
+    "cat": "intrusive",
+    "updatedAt": "2026-11-05T18:54:22.306Z"
+  },
+  {
+    "id": "anger_burst",
+    "n": "خشم انفجاری",
+    "cat": "storm",
+    "updatedAt": "2026-11-05T19:03:22.814Z"
+  },
+  {
+    "id": "anticipatory_anxiety",
+    "n": "اضطراب انتظار",
+    "cat": "storm",
+    "updatedAt": "2026-11-05T21:14:09.520Z"
+  },
+  {
+    "id": "anxiety_hand_tremor",
+    "n": "لرزش دست اضطرابی",
+    "cat": "body_signal",
+    "updatedAt": "2026-11-07T10:41:49.302Z"
+  },
+  {
+    "id": "anxiety_palpitations_and_choking",
+    "n": "تپش و حس خفگی اضطرابی",
+    "cat": "storm",
+    "updatedAt": "2026-11-05T19:02:28.836Z"
+  },
+  {
+    "id": "anxious_attachment",
+    "n": "دلبستگی اضطرابی",
+    "cat": "relation",
+    "updatedAt": "2026-11-07T21:26:11.991Z"
+  },
+  {
+    "id": "anxious_controlling",
+    "n": "کنترل‌گری از سر اضطراب",
+    "cat": "relation",
+    "updatedAt": "2026-11-07T21:50:15.611Z"
+  },
+  {
+    "id": "avoidance_of_administrative_responsibilities",
+    "n": "اجتناب از مسئولیت اداری",
+    "cat": "impulse",
+    "updatedAt": "2026-11-08T07:42:42.235Z"
+  },
+  {
+    "id": "avoidance_of_asking_for_help",
+    "n": "اجتناب از کمک خواستن",
+    "cat": "shame",
+    "updatedAt": "2026-11-07T10:52:15.408Z"
+  },
+  {
+    "id": "avoidance_of_being_seen",
+    "n": "اجتناب از دیده شدن",
+    "cat": "shame",
+    "updatedAt": "2026-11-07T11:48:31.554Z"
+  },
+  {
+    "id": "avoidance_of_body_exposure_situations",
+    "n": "اجتناب از موقعیت‌های بدنی (استخر و…)",
+    "cat": "body_image",
+    "updatedAt": "2026-11-07T20:20:30.197Z"
+  },
+  {
+    "id": "avoidance_of_boring_but_important_tasks",
+    "n": "اجتناب از کارهای خسته‌کننده ولی مهم",
+    "cat": "neuro",
+    "updatedAt": "2026-11-07T20:39:04.725Z"
+  },
+  {
+    "id": "avoidance_of_photos",
+    "n": "اجتناب از عکس",
+    "cat": "body_image",
+    "updatedAt": "2026-11-07T14:14:33.997Z"
+  },
+  {
+    "id": "avoidance_of_talking_about_desire",
+    "n": "اجتناب از صحبت درباره میل/بی‌میلی (۱۸+)",
+    "cat": "shame",
+    "updatedAt": "2026-11-07T11:58:47.717Z"
+  },
+  {
+    "id": "avoidant_attachment",
+    "n": "دلبستگی اجتنابی",
+    "cat": "relation",
+    "updatedAt": "2026-11-07T21:27:32.375Z"
+  },
+  {
+    "id": "behaviors_you_regret_later",
+    "n": "رفتارهایی که بعداً پشیمان می‌شوی",
+    "cat": "impulse",
+    "updatedAt": "2026-11-08T07:45:07.841Z"
+  },
+  {
+    "id": "body_comparison_on_social_media",
+    "n": "مقایسه بدنی در شبکه",
+    "cat": "body_image",
+    "updatedAt": "2026-11-07T14:13:41.979Z"
+  },
+  {
+    "id": "body_shame",
+    "n": "شرم بدنی",
+    "cat": "shame",
+    "updatedAt": "2026-11-07T10:54:20.942Z"
+  },
+  {
+    "id": "breadwinning_pressure",
+    "n": "فشار نان‌آوری",
+    "cat": "cultural",
+    "updatedAt": "2026-11-08T08:42:34.220Z"
+  },
+  {
+    "id": "broken_promises",
+    "n": "قول‌هایی که شکسته می‌شوند",
+    "cat": "impulse",
+    "updatedAt": "2026-11-08T07:40:16.325Z"
+  },
+  {
+    "id": "bruxism",
+    "n": "دندان‌قروچه",
+    "cat": "body_signal",
+    "updatedAt": "2026-11-07T10:38:41.556Z"
+  },
+  {
+    "id": "caregiver_burnout",
+    "n": "فرسودگی مراقبت از دیگران (Caregiver Burnout)",
+    "cat": "burnout",
+    "updatedAt": "2026-11-05T15:18:17.963Z"
+  },
+  {
+    "id": "chronic_emotional_distance",
+    "n": "فاصله عاطفی مزمن",
+    "cat": "relation",
+    "updatedAt": "2026-11-08T07:29:43.930Z"
+  },
+  {
+    "id": "chronic_fatigue",
+    "n": "خستگی مزمن بدون بیماری مشخص (Chronic Fatigue)",
+    "cat": "burnout",
+    "updatedAt": "2026-11-05T15:14:55.657Z"
+  },
+  {
+    "id": "chronic_procrastination",
+    "n": "به تعویق انداختن مزمن",
+    "cat": "impulse",
+    "updatedAt": "2026-11-08T07:34:46.496Z"
+  },
+  {
+    "id": "collective_environmental_grief",
+    "n": "اندوه جمعی محیط",
+    "cat": "cultural",
+    "updatedAt": "2026-11-08T08:43:54.022Z"
+  },
+  {
+    "id": "comparing_relationship_with_others",
+    "n": "مقایسه رابطه خود با دیگران",
+    "cat": "relation",
+    "updatedAt": "2026-11-08T07:23:36.351Z"
+  },
+  {
+    "id": "compensatory_behavior_after_shame",
+    "n": "رفتار جبرانی بعد از شرم",
+    "cat": "shame",
+    "updatedAt": "2026-11-07T11:52:47.157Z"
+  },
+  {
+    "id": "compulsive_checking",
+    "n": "چک‌کردن وسواسی",
+    "cat": "intrusive",
+    "updatedAt": "2026-11-05T18:21:12.299Z"
+  },
+  {
+    "id": "compulsive_exercise_for_appearance",
+    "n": "ورزش اجباری برای ظاهر",
+    "cat": "body_image",
+    "updatedAt": "2026-11-07T14:16:21.146Z"
+  },
+  {
+    "id": "constant_appearance_changes_for_approval",
+    "n": "تغییر مداوم ظاهر برای تأیید",
+    "cat": "body_image",
+    "updatedAt": "2026-11-07T20:19:02.621Z"
+  },
+  {
+    "id": "contact_only_in_crisis",
+    "n": "ارتباط فقط در بحران",
+    "cat": "relation",
+    "updatedAt": "2026-11-08T07:27:18.386Z"
+  },
+  {
+    "id": "counting_and_mental_rituals",
+    "n": "شمارش و آیین‌های ذهنی",
+    "cat": "intrusive",
+    "updatedAt": "2026-11-05T18:51:08.949Z"
+  },
+  {
+    "id": "daydreaming_replacing_real_life",
+    "n": "خیال‌پردازی جایگزین زندگی واقعی",
+    "cat": "inner_world",
+    "updatedAt": "2026-11-07T14:06:13.277Z"
+  },
+  {
+    "id": "decision_fatigue",
+    "n": "خستگی تصمیم (Decision Fatigue)",
+    "cat": "burnout",
+    "updatedAt": "2026-11-05T15:19:52.479Z"
+  },
+  {
+    "id": "dependence_on_inner_narratives",
+    "n": "وابستگی به داستان‌های درونی",
+    "cat": "inner_world",
+    "updatedAt": "2026-11-07T14:09:52.493Z"
+  },
+  {
+    "id": "dependency_on_partner_approval",
+    "n": "وابستگی به تأیید شریک",
+    "cat": "relation",
+    "updatedAt": "2026-11-08T07:28:25.573Z"
+  },
+  {
+    "id": "difficulty_being_present_in_groups",
+    "n": "مشکل در حضور در جمع",
+    "cat": "inner_world",
+    "updatedAt": "2026-11-07T14:10:45.732Z"
+  },
+  {
+    "id": "difficulty_ending_relationship",
+    "n": "مشکل در پایان دادن به رابطه",
+    "cat": "relation",
+    "updatedAt": "2026-11-08T07:24:55.432Z"
+  },
+  {
+    "id": "difficulty_remembering_daily_details",
+    "n": "مشکل در به یاد آوردن جزئیات روز",
+    "cat": "inner_world",
+    "updatedAt": "2026-11-07T14:06:52.376Z"
+  },
+  {
+    "id": "difficulty_starting_tasks",
+    "n": "شروع سخت کارها",
+    "cat": "neuro",
+    "updatedAt": "2026-11-07T20:22:44.237Z"
+  },
+  {
+    "id": "difficulty_with_multistep_instructions",
+    "n": "دشواری دستورالعمل چندمرحله‌ای",
+    "cat": "neuro",
+    "updatedAt": "2026-11-07T20:30:31.026Z"
+  },
+  {
+    "id": "difficulty_with_prioritization",
+    "n": "مشکل در اولویت‌بندی",
+    "cat": "neuro",
+    "updatedAt": "2026-11-07T20:36:02.166Z"
+  },
+  {
+    "id": "disorganization_of_items_and_files",
+    "n": "بی‌نظمی وسایل و فایل‌ها",
+    "cat": "neuro",
+    "updatedAt": "2026-11-07T20:32:33.731Z"
+  },
+  {
+    "id": "dissatisfaction_with_appearance",
+    "n": "نارضایتی از ظاهر",
+    "cat": "body_image",
+    "updatedAt": "2026-11-07T14:12:05.994Z"
+  },
+  {
+    "id": "doubting_own_memory",
+    "n": "شک به حافظه خود",
+    "cat": "intrusive",
+    "updatedAt": "2026-11-05T18:56:02.747Z"
+  },
+  {
+    "id": "dual_identity_city_family",
+    "n": "هویت دوگانه شهر/خانواده",
+    "cat": "cultural",
+    "updatedAt": "2026-11-08T08:46:58.897Z"
+  },
+  {
+    "id": "emotional_detachment_from_self",
+    "n": "فاصله از احساسات خود",
+    "cat": "inner_world",
+    "updatedAt": "2026-11-07T14:04:03.728Z"
+  },
+  {
+    "id": "emotional_eating",
+    "n": "پرخوری هیجانی",
+    "cat": "body_signal",
+    "updatedAt": "2026-11-07T10:34:24.876Z"
+  },
+  {
+    "id": "emptiness_after_success",
+    "n": "پوچی بعد از موفقیت (Emptiness After Success)",
+    "cat": "burnout",
+    "updatedAt": "2026-11-05T15:24:22.644Z"
+  },
+  {
+    "id": "entrepreneurial_burnout",
+    "n": "فرسودگی در کسب‌وکار شخصی (Entrepreneurial Burnout)",
+    "cat": "burnout",
+    "updatedAt": "2026-11-05T15:25:19.650Z"
+  },
+  {
+    "id": "excessive_daydreaming",
+    "n": "خیال‌پردازی افراطی روزانه",
+    "cat": "inner_world",
+    "updatedAt": "2026-11-07T11:59:53.924Z"
+  },
+  {
+    "id": "excessive_focus_on_a_flaw",
+    "n": "تمرکز افراطی روی یک نقص",
+    "cat": "body_image",
+    "updatedAt": "2026-11-07T14:17:02.834Z"
+  },
+  {
+    "id": "explosion_after_long_suppression",
+    "n": "انفجار بعد از تحمل طولانی",
+    "cat": "impulse",
+    "updatedAt": "2026-11-08T07:41:31.613Z"
+  },
+  {
+    "id": "extreme_mental_control",
+    "n": "کنترل ذهنی افراطی",
+    "cat": "intrusive",
+    "updatedAt": "2026-11-05T18:57:39.868Z"
+  },
+  {
+    "id": "family_comparisons",
+    "n": "مقایسه فامیلی",
+    "cat": "cultural",
+    "updatedAt": "2026-11-08T08:32:04.029Z"
+  },
+  {
+    "id": "family_emotional_burnout",
+    "n": "فرسودگی عاطفی در خدمت به خانواده (Emotional Burnout in Serving the Family)",
+    "cat": "burnout",
+    "updatedAt": "2026-11-05T15:31:11.785Z"
+  },
+  {
+    "id": "family_financial_pressure",
+    "n": "فشار اقتصادی خانواده",
+    "cat": "cultural",
+    "updatedAt": "2026-11-08T08:30:49.959Z"
+  },
+  {
+    "id": "fatigue_after_crowded_environment",
+    "n": "خستگی بعد از محیط شلوغ",
+    "cat": "neuro",
+    "updatedAt": "2026-11-07T20:34:38.087Z"
+  },
+  {
+    "id": "fatigue_after_insufficient_sleep",
+    "n": "خستگی بعد از خواب ناکافی",
+    "cat": "body_signal",
+    "updatedAt": "2026-11-07T10:35:25.407Z"
+  },
+  {
+    "id": "fatigue_after_prolonged_daydreaming",
+    "n": "خستگی بعد از خیال طولانی",
+    "cat": "inner_world",
+    "updatedAt": "2026-11-07T14:11:24.342Z"
+  },
+  {
+    "id": "fatigue_after_sedentary_day",
+    "n": "بدن خسته بعد از روز کم‌تحرک",
+    "cat": "body_signal",
+    "updatedAt": "2026-11-07T10:47:46.867Z"
+  },
+  {
+    "id": "fatigue_from_being_strong",
+    "n": "خستگی از «قوی بودن» (Fatigue from Being Strong)",
+    "cat": "burnout",
+    "updatedAt": "2026-11-05T15:26:15.736Z"
+  },
+  {
+    "id": "fatigue_from_heavy_news",
+    "n": "خستگی از خبرهای سنگین",
+    "cat": "cultural",
+    "updatedAt": "2026-11-08T08:38:36.618Z"
+  },
+  {
+    "id": "fear_of_being_alone",
+    "n": "ترس از تنها ماندن",
+    "cat": "relation",
+    "updatedAt": "2026-11-07T21:49:13.528Z"
+  },
+  {
+    "id": "fear_of_catastrophic_mistake",
+    "n": "ترس از اشتباه فاجعه‌بار",
+    "cat": "intrusive",
+    "updatedAt": "2026-11-05T18:50:20.493Z"
+  },
+  {
+    "id": "fear_of_crowded_places",
+    "n": "ترس از مکان‌های شلوغ",
+    "cat": "storm",
+    "updatedAt": "2026-11-05T21:12:17.114Z"
+  },
+  {
+    "id": "fear_of_dependency",
+    "n": "ترس از وابستگی",
+    "cat": "relation",
+    "updatedAt": "2026-11-08T07:31:04.036Z"
+  },
+  {
+    "id": "fear_of_expressing_needs",
+    "n": "ترس از درخواست نیاز",
+    "cat": "relation",
+    "updatedAt": "2026-11-08T07:20:37.932Z"
+  },
+  {
+    "id": "fear_of_forgetting_important_task",
+    "n": "ترس از فراموشی کار مهم",
+    "cat": "intrusive",
+    "updatedAt": "2026-11-05T18:55:09.492Z"
+  },
+  {
+    "id": "fear_of_intimacy",
+    "n": "ترس از صمیمیت",
+    "cat": "relation",
+    "updatedAt": "2026-11-07T21:29:42.078Z"
+  },
+  {
+    "id": "fear_of_losing_control",
+    "n": "ترس از از دست دادن کنترل",
+    "cat": "storm",
+    "updatedAt": "2026-11-05T21:18:56.421Z"
+  },
+  {
+    "id": "fear_of_public_speaking",
+    "n": "ترس از سخنرانی",
+    "cat": "storm",
+    "updatedAt": "2026-11-05T21:26:21.771Z"
+  },
+  {
+    "id": "feeling_detached_from_environment",
+    "n": "حس جدا بودن از محیط",
+    "cat": "inner_world",
+    "updatedAt": "2026-11-07T13:59:49.977Z"
+  },
+  {
+    "id": "feeling_geographically_stuck",
+    "n": "احساس گیر افتادن جغرافیایی",
+    "cat": "cultural",
+    "updatedAt": "2026-11-08T08:39:56.161Z"
+  },
+  {
+    "id": "feeling_left_behind",
+    "n": "حس عقب‌ماندن از زندگی (Feeling Left Behind in Life)",
+    "cat": "burnout",
+    "updatedAt": "2026-11-05T15:30:25.496Z"
+  },
+  {
+    "id": "feeling_like_an_observer_of_oneself",
+    "n": "حس تماشاگر بودن به خود",
+    "cat": "inner_world",
+    "updatedAt": "2026-11-07T14:07:34.900Z"
+  },
+  {
+    "id": "feeling_stuck_in_life",
+    "n": "حس گیرکردن در زندگی (Feeling Stuck in Life)",
+    "cat": "burnout",
+    "updatedAt": "2026-11-05T15:20:48.585Z"
+  },
+  {
+    "id": "forgetting_daily_tasks",
+    "n": "فراموشی کارهای روزمره",
+    "cat": "neuro",
+    "updatedAt": "2026-11-07T20:25:33.685Z"
+  },
+  {
+    "id": "frequent_night_awakenings",
+    "n": "بیداری‌های مکرر شب",
+    "cat": "body_signal",
+    "updatedAt": "2026-11-05T21:29:49.545Z"
+  },
+  {
+    "id": "future_anxiety_in_unstable_conditions",
+    "n": "اضطراب آینده در شرایط ناپایدار",
+    "cat": "cultural",
+    "updatedAt": "2026-11-08T08:33:15.459Z"
+  },
+  {
+    "id": "gender_role_conflict_family_expectations",
+    "n": "تعارض نقش زن/مرد در انتظار خانواده",
+    "cat": "cultural",
+    "updatedAt": "2026-11-08T08:35:55.441Z"
+  },
+  {
+    "id": "getting_lost_in_mental_world",
+    "n": "غرق شدن در دنیای ذهنی",
+    "cat": "inner_world",
+    "updatedAt": "2026-11-07T14:02:20.933Z"
+  },
+  {
+    "id": "habitual_shallow_breathing",
+    "n": "نفس کم‌عمق عادتی",
+    "cat": "body_signal",
+    "updatedAt": "2026-11-07T10:37:37.690Z"
+  },
+  {
+    "id": "hidden_burnout_in_high_achievers",
+    "n": "فرسودگی پنهان در افراد پرتلاش",
+    "cat": "neuro",
+    "updatedAt": "2026-11-07T21:23:42.056Z"
+  },
+  {
+    "id": "hidden_checking_habit",
+    "n": "عادت پنهان چک‌کردن",
+    "cat": "shame",
+    "updatedAt": "2026-11-07T11:43:51.753Z"
+  },
+  {
+    "id": "hidden_compulsive_masturbation",
+    "n": "خودارضایی اجباری پنهان (۱۸+)",
+    "cat": "shame",
+    "updatedAt": "2026-11-07T11:54:53.770Z"
+  },
+  {
+    "id": "hidden_social_media_use",
+    "n": "استفاده پنهان از شبکه‌های اجتماعی",
+    "cat": "shame",
+    "updatedAt": "2026-11-07T11:45:28.552Z"
+  },
+  {
+    "id": "hiding_body_with_clothing",
+    "n": "پنهان کردن بدن با لباس",
+    "cat": "body_image",
+    "updatedAt": "2026-11-07T20:17:34.554Z"
+  },
+  {
+    "id": "hiding_debt_financial_problems",
+    "n": "پنهان کردن بدهی/مشکل مالی",
+    "cat": "shame",
+    "updatedAt": "2026-11-07T11:50:52.490Z"
+  },
+  {
+    "id": "hiding_in_intimate_relationship",
+    "n": "پنهان‌کاری در رابطه صمیمانه (۱۸+)",
+    "cat": "shame",
+    "updatedAt": "2026-11-07T11:57:37.156Z"
+  },
+  {
+    "id": "hiding_mistakes",
+    "n": "پنهان‌کاری اشتباهات",
+    "cat": "shame",
+    "updatedAt": "2026-11-07T10:51:03.785Z"
+  },
+  {
+    "id": "hope_fatigue_in_social_environment",
+    "n": "فرسودگی امید در فضای اجتماعی",
+    "cat": "cultural",
+    "updatedAt": "2026-11-08T08:48:06.857Z"
+  },
+  {
+    "id": "hyperfocus_on_special_interest",
+    "n": "بیش‌تمرکزی روی علاقه خاص",
+    "cat": "neuro",
+    "updatedAt": "2026-11-07T20:29:55.954Z"
+  },
+  {
+    "id": "impulse_buying",
+    "n": "تکانه‌ی خرید",
+    "cat": "impulse",
+    "updatedAt": "2026-11-08T07:35:54.530Z"
+  },
+  {
+    "id": "instability_in_small_commitments",
+    "n": "بی‌ثباتی در تعهدات کوچک",
+    "cat": "impulse",
+    "updatedAt": "2026-11-08T08:28:12.566Z"
+  },
+  {
+    "id": "intense_dependency",
+    "n": "وابستگی شدید",
+    "cat": "relation",
+    "updatedAt": "2026-11-07T21:32:10.793Z"
+  },
+  {
+    "id": "job_burnout",
+    "n": "فرسودگی شغلی (Job Burnout)",
+    "cat": "burnout",
+    "updatedAt": "2026-11-05T14:57:01.616Z"
+  },
+  {
+    "id": "living_on_autopilot",
+    "n": "زندگی روی حالت خودکار",
+    "cat": "inner_world",
+    "updatedAt": "2026-11-07T14:05:23.244Z"
+  },
+  {
+    "id": "long_silence_after_conflict",
+    "n": "سکوت طولانی بعد از تعارض",
+    "cat": "relation",
+    "updatedAt": "2026-11-07T21:48:12.013Z"
+  },
+  {
+    "id": "loss_of_appetite_under_stress",
+    "n": "اشتهای کم در فشار",
+    "cat": "body_signal",
+    "updatedAt": "2026-11-07T10:33:26.121Z"
+  },
+  {
+    "id": "loss_of_interest",
+    "n": "بی‌علاقگی به چیزهای قبلی (Loss of Interest in Previously Enjoyed Activities)",
+    "cat": "burnout",
+    "updatedAt": "2026-11-05T15:21:41.698Z"
+  },
+  {
+    "id": "loss_of_passion",
+    "n": "از دست رفتن شور یادگیری (Loss of Passion for Learning)",
+    "cat": "burnout",
+    "updatedAt": "2026-11-05T15:27:54.255Z"
+  },
+  {
+    "id": "marriage_pressure",
+    "n": "فشار ازدواج",
+    "cat": "cultural",
+    "updatedAt": "2026-11-08T08:29:29.266Z"
+  },
+  {
+    "id": "meaninglessness_at_work",
+    "n": "بی‌معنایی کار (Meaninglessness at Work)",
+    "cat": "burnout",
+    "updatedAt": "2026-11-05T15:16:24.277Z"
+  },
+  {
+    "id": "mental_escape_from_difficult_situations",
+    "n": "فرار ذهنی از موقعیت سخت",
+    "cat": "inner_world",
+    "updatedAt": "2026-11-07T14:08:20.481Z"
+  },
+  {
+    "id": "mental_jealousy",
+    "n": "حسادت ذهنی",
+    "cat": "relation",
+    "updatedAt": "2026-11-07T21:30:54.433Z"
+  },
+  {
+    "id": "momentary_forgetting_during_conversation",
+    "n": "فراموشی لحظه‌ای گفتگو",
+    "cat": "inner_world",
+    "updatedAt": "2026-11-07T14:03:10.776Z"
+  },
+  {
+    "id": "moral_intrusive_thoughts",
+    "n": "فکرهای مزاحم اخلاقی",
+    "cat": "intrusive",
+    "updatedAt": "2026-11-05T18:59:59.576Z"
+  },
+  {
+    "id": "morning_anxiety",
+    "n": "اضطراب صبحگاهی",
+    "cat": "storm",
+    "updatedAt": "2026-11-05T21:28:03.836Z"
+  },
+  {
+    "id": "morning_body_heaviness",
+    "n": "سنگینی بدن صبح",
+    "cat": "body_signal",
+    "updatedAt": "2026-11-07T10:40:45.731Z"
+  },
+  {
+    "id": "multiple_role_fatigue",
+    "n": "خستگی نقش‌های چندگانه (Multiple Role Fatigue)",
+    "cat": "burnout",
+    "updatedAt": "2026-11-05T15:23:32.392Z"
+  },
+  {
+    "id": "neck_shoulder_tension",
+    "n": "تنش گردن و شانه",
+    "cat": "body_signal",
+    "updatedAt": "2026-11-06T00:00:28.702Z"
+  },
+  {
+    "id": "need_for_external_structure",
+    "n": "نیاز به ساختار بیرونی",
+    "cat": "neuro",
+    "updatedAt": "2026-11-07T21:21:35.015Z"
+  },
+  {
+    "id": "need_for_mental_order_and_symmetry",
+    "n": "نیاز به ترتیب و تقارن ذهنی",
+    "cat": "intrusive",
+    "updatedAt": "2026-11-05T18:58:21.682Z"
+  },
+  {
+    "id": "need_for_reassurance",
+    "n": "نیاز به اطمینان‌گرفتن مکرر",
+    "cat": "intrusive",
+    "updatedAt": "2026-11-05T18:49:26.817Z"
+  },
+  {
+    "id": "need_to_move_while_thinking",
+    "n": "نیاز به حرکت هنگام فکر",
+    "cat": "neuro",
+    "updatedAt": "2026-11-07T20:27:25.018Z"
+  },
+  {
+    "id": "nocturnal_panic",
+    "n": "پنیک شبانه",
+    "cat": "storm",
+    "updatedAt": "2026-11-05T21:15:08.106Z"
+  },
+  {
+    "id": "not_present_here",
+    "n": "من اینجا نیستم",
+    "cat": "inner_world",
+    "updatedAt": "2026-11-07T14:00:29.540Z"
+  },
+  {
+    "id": "one_sided_relationship",
+    "n": "رابطه یک‌طرفه",
+    "cat": "relation",
+    "updatedAt": "2026-11-07T21:53:57.363Z"
+  },
+  {
+    "id": "open_loop_in_the_mind",
+    "n": "حلقه باز «حل‌نشده» در ذهن",
+    "cat": "intrusive",
+    "updatedAt": "2026-11-05T19:00:48.817Z"
+  },
+  {
+    "id": "organizational_bureaucracy",
+    "n": "خستگی سازمانی/بوروکراسی (Organizational/Bureaucratic Fatigue)",
+    "cat": "burnout",
+    "updatedAt": "2026-11-05T15:29:33.486Z"
+  },
+  {
+    "id": "overanalyzing_relationships",
+    "n": "بیش‌تحلیل روابط",
+    "cat": "intrusive",
+    "updatedAt": "2026-11-05T18:53:33.070Z"
+  },
+  {
+    "id": "palpitations_in_safe_situations",
+    "n": "تپش در موقعیت بی‌خطر",
+    "cat": "body_signal",
+    "updatedAt": "2026-11-07T10:36:33.116Z"
+  },
+  {
+    "id": "panic_attack",
+    "n": "حمله اضطراب ناگهانی",
+    "cat": "storm",
+    "updatedAt": "2026-11-05T19:01:40.708Z"
+  },
+  {
+    "id": "parental_burnout",
+    "n": "فرسودگی والدگری (Parental Burnout)",
+    "cat": "burnout",
+    "updatedAt": "2026-11-05T15:28:49.480Z"
+  },
+  {
+    "id": "passive_aggression",
+    "n": "خشم منفعل",
+    "cat": "relation",
+    "updatedAt": "2026-11-08T07:21:39.762Z"
+  },
+  {
+    "id": "perceived_workplace_discrimination",
+    "n": "تبعیض ادراک‌شده در محیط کار",
+    "cat": "cultural",
+    "updatedAt": "2026-11-08T08:45:52.352Z"
+  },
+  {
+    "id": "performance_anxiety",
+    "n": "اضطراب عملکرد",
+    "cat": "storm",
+    "updatedAt": "2026-11-05T21:20:45.171Z"
+  },
+  {
+    "id": "periodic_emotional_instability",
+    "n": "بی‌ثباتی هیجانی دوره‌ای",
+    "cat": "storm",
+    "updatedAt": "2026-11-05T21:27:07.320Z"
+  },
+  {
+    "id": "persistent_distraction",
+    "n": "حواس‌پرتی پایدار",
+    "cat": "neuro",
+    "updatedAt": "2026-11-07T20:21:56.830Z"
+  },
+  {
+    "id": "persistent_feeling_of_ugliness",
+    "n": "احساس زشتی پایدار",
+    "cat": "body_image",
+    "updatedAt": "2026-11-07T20:19:49.794Z"
+  },
+  {
+    "id": "persistent_lethargy",
+    "n": "بی‌حالی مداوم (Persistent Lethargy)",
+    "cat": "burnout",
+    "updatedAt": "2026-11-05T15:27:11.915Z"
+  },
+  {
+    "id": "porn_addiction_like_behavior",
+    "n": "اعتیادواره‌ی پورن (۱۸+)",
+    "cat": "shame",
+    "updatedAt": "2026-11-07T11:53:51.621Z"
+  },
+  {
+    "id": "post_conflict_storm",
+    "n": "طوفان بعد از تعارض",
+    "cat": "storm",
+    "updatedAt": "2026-11-05T21:17:07.868Z"
+  },
+  {
+    "id": "post_decision_dissonance",
+    "n": "تردید بعد از تصمیم",
+    "cat": "intrusive",
+    "updatedAt": "2026-11-05T18:47:03.897Z"
+  },
+  {
+    "id": "post_meal_energy_dip",
+    "n": "افت انرژی بعد از غذا",
+    "cat": "body_signal",
+    "updatedAt": "2026-11-07T10:45:00.236Z"
+  },
+  {
+    "id": "problem_with_authority",
+    "n": "مشکل با مرجع قدرت",
+    "cat": "impulse",
+    "updatedAt": "2026-11-08T07:38:42.716Z"
+  },
+  {
+    "id": "procrastination_starting_assignments",
+    "n": "تأخیر در شروع تکالیف",
+    "cat": "neuro",
+    "updatedAt": "2026-11-07T20:31:53.862Z"
+  },
+  {
+    "id": "push_pull_pattern",
+    "n": "الگوی جذب-پس‌زدن",
+    "cat": "relation",
+    "updatedAt": "2026-11-08T07:32:09.966Z"
+  },
+  {
+    "id": "recurring_conflicts_over_rules",
+    "n": "درگیری‌های تکراری سر قانون خانه/کار",
+    "cat": "impulse",
+    "updatedAt": "2026-11-08T07:43:51.939Z"
+  },
+  {
+    "id": "rejection_anxiety",
+    "n": "اضطراب طرد",
+    "cat": "relation",
+    "updatedAt": "2026-11-07T21:24:40.899Z"
+  },
+  {
+    "id": "repeated_mirror_checking",
+    "n": "چک‌کردن مکرر آینه",
+    "cat": "body_image",
+    "updatedAt": "2026-11-07T14:12:52.645Z"
+  },
+  {
+    "id": "repeating_unsuitable_partner_pattern",
+    "n": "تکرار الگوی شریک نامناسب",
+    "cat": "relation",
+    "updatedAt": "2026-11-07T21:34:07.963Z"
+  },
+  {
+    "id": "repetitive_thoughts_before_sleep",
+    "n": "افکار تکراری قبل خواب",
+    "cat": "intrusive",
+    "updatedAt": "2026-11-05T18:20:10.100Z"
+  },
+  {
+    "id": "rescuer_role",
+    "n": "نقش نجات‌دهنده",
+    "cat": "relation",
+    "updatedAt": "2026-11-07T21:52:46.543Z"
+  },
+  {
+    "id": "restless_legs",
+    "n": "بی‌قراری پاها",
+    "cat": "body_signal",
+    "updatedAt": "2026-11-07T10:43:59.744Z"
+  },
+  {
+    "id": "reviewing_past_conversations",
+    "n": "مرور مکالمات گذشته",
+    "cat": "intrusive",
+    "updatedAt": "2026-11-05T18:52:42.744Z"
+  },
+  {
+    "id": "rumination",
+    "n": "نشخوار فکری (Rumination)",
+    "cat": "intrusive",
+    "updatedAt": "2026-11-05T15:32:04.682Z"
+  },
+  {
+    "id": "secret_shopping",
+    "n": "خرید پنهانی",
+    "cat": "shame",
+    "updatedAt": "2026-11-07T11:44:31.124Z"
+  },
+  {
+    "id": "self_deprecating_comparison",
+    "n": "مقایسه تحقیرآمیز خود",
+    "cat": "shame",
+    "updatedAt": "2026-11-07T10:53:16.108Z"
+  },
+  {
+    "id": "self_sacrifice_in_relationships",
+    "n": "خودقربانی‌گری در رابطه",
+    "cat": "relation",
+    "updatedAt": "2026-11-07T21:33:05.113Z"
+  },
+  {
+    "id": "sensitivity_to_criticism",
+    "n": "حساسیت به نقد",
+    "cat": "storm",
+    "updatedAt": "2026-11-05T21:16:01.450Z"
+  },
+  {
+    "id": "sensitivity_to_injustice",
+    "n": "حساسیت به بی‌عدالتی",
+    "cat": "neuro",
+    "updatedAt": "2026-11-07T20:39:50.528Z"
+  },
+  {
+    "id": "sensitivity_to_interruption_of_focus",
+    "n": "حساسیت به قطع شدن تمرکز",
+    "cat": "neuro",
+    "updatedAt": "2026-11-07T20:33:15.951Z"
+  },
+  {
+    "id": "sensitivity_to_others_opinions_about_appearance",
+    "n": "حساسیت به نظر دیگران درباره ظاهر",
+    "cat": "body_image",
+    "updatedAt": "2026-11-07T20:18:17.611Z"
+  },
+  {
+    "id": "sensory_overstimulation",
+    "n": "بیش‌تحریکی حسی",
+    "cat": "neuro",
+    "updatedAt": "2026-11-07T20:26:31.017Z"
+  },
+  {
+    "id": "sensory_sensitivity_sound_light",
+    "n": "حساسیت به صدا/نور",
+    "cat": "body_signal",
+    "updatedAt": "2026-11-07T10:47:11.107Z"
+  },
+  {
+    "id": "severe_daily_mood_swings",
+    "n": "نوسان خلق شدید روزانه",
+    "cat": "storm",
+    "updatedAt": "2026-11-05T21:06:50.920Z"
+  },
+  {
+    "id": "severe_physical_restlessness",
+    "n": "بی‌قراری بدنی شدید",
+    "cat": "storm",
+    "updatedAt": "2026-11-05T21:19:52.222Z"
+  },
+  {
+    "id": "severe_productivity_fluctuations",
+    "n": "نوسان بهره‌وری شدید",
+    "cat": "neuro",
+    "updatedAt": "2026-11-07T20:35:18.311Z"
+  },
+  {
+    "id": "sexual_shame",
+    "n": "شرم جنسی (۱۸+)",
+    "cat": "shame",
+    "updatedAt": "2026-11-07T11:56:07.433Z"
+  },
+  {
+    "id": "shame_based_perfectionism",
+    "n": "کمال‌گرایی شرم‌محور",
+    "cat": "shame",
+    "updatedAt": "2026-11-07T11:49:42.757Z"
+  },
+  {
+    "id": "shame_of_anger",
+    "n": "شرم از خشم",
+    "cat": "shame",
+    "updatedAt": "2026-11-07T11:51:41.397Z"
+  },
+  {
+    "id": "shame_of_clothing",
+    "n": "شرم از لباس",
+    "cat": "body_image",
+    "updatedAt": "2026-11-07T14:17:50.554Z"
+  },
+  {
+    "id": "shame_of_emotional_needs",
+    "n": "شرم از نیاز عاطفی",
+    "cat": "shame",
+    "updatedAt": "2026-11-07T11:46:27.286Z"
+  },
+  {
+    "id": "shame_of_failure",
+    "n": "شرم از ناکامی",
+    "cat": "shame",
+    "updatedAt": "2026-11-07T10:49:45.217Z"
+  },
+  {
+    "id": "situational_social_anxiety",
+    "n": "اضطراب اجتماعی موقعیتی",
+    "cat": "storm",
+    "updatedAt": "2026-11-05T21:25:32.297Z"
+  },
+  {
+    "id": "situational_sweating",
+    "n": "تعریق موقعیتی",
+    "cat": "body_signal",
+    "updatedAt": "2026-11-07T10:42:54.214Z"
+  },
+  {
+    "id": "sleep_onset_insomnia",
+    "n": "بی‌خوابی شروع خواب",
+    "cat": "body_signal",
+    "updatedAt": "2026-11-05T21:28:57.606Z"
+  },
+  {
+    "id": "slow_recovery_after_mild_illness",
+    "n": "بازیابی کند بعد از بیماری جزئی",
+    "cat": "body_signal",
+    "updatedAt": "2026-11-07T10:48:46.991Z"
+  },
+  {
+    "id": "small_lies_to_maintain_image",
+    "n": "دروغ‌های کوچک برای حفظ تصویر",
+    "cat": "shame",
+    "updatedAt": "2026-11-07T11:47:26.922Z"
+  },
+  {
+    "id": "social_media_burnout",
+    "n": "فرسودگی شبکه‌های اجتماعی (Social Media Burnout)",
+    "cat": "burnout",
+    "updatedAt": "2026-11-05T15:22:36.983Z"
+  },
+  {
+    "id": "social_shame_what_will_people_say",
+    "n": "شرم اجتماعی «چه می‌گویند»",
+    "cat": "cultural",
+    "updatedAt": "2026-11-08T08:37:12.418Z"
+  },
+  {
+    "id": "stress_related_digestive_issues",
+    "n": "مشکلات گوارشی با استرس",
+    "cat": "body_signal",
+    "updatedAt": "2026-11-07T10:32:01.169Z"
+  },
+  {
+    "id": "stuck_on_a_sentence",
+    "n": "گیر کردن روی یک جمله",
+    "cat": "intrusive",
+    "updatedAt": "2026-11-05T18:51:55.035Z"
+  },
+  {
+    "id": "sudden_crying",
+    "n": "گریه ناگهانی",
+    "cat": "storm",
+    "updatedAt": "2026-11-05T19:04:14.964Z"
+  },
+  {
+    "id": "sudden_illness_phobia",
+    "n": "وحشت از بیماری ناگهانی",
+    "cat": "storm",
+    "updatedAt": "2026-11-05T21:23:51.099Z"
+  },
+  {
+    "id": "sudden_risks",
+    "n": "ریسک‌های ناگهانی",
+    "cat": "impulse",
+    "updatedAt": "2026-11-08T07:37:24.882Z"
+  },
+  {
+    "id": "suppressed_anger",
+    "n": "خشم فروخورده",
+    "cat": "storm",
+    "updatedAt": "2026-11-05T21:24:41.115Z"
+  },
+  {
+    "id": "tense_relationship_with_food_and_appearance",
+    "n": "رابطه پرتنش با غذا و ظاهر",
+    "cat": "body_image",
+    "updatedAt": "2026-11-07T20:21:08.380Z"
+  },
+  {
+    "id": "tension_headache",
+    "n": "سردرد تنشی",
+    "cat": "body_signal",
+    "updatedAt": "2026-11-07T10:17:49.164Z"
+  },
+  {
+    "id": "time_distortion_in_daydreaming",
+    "n": "زمان‌پریشی در خیال",
+    "cat": "inner_world",
+    "updatedAt": "2026-11-07T14:09:07.664Z"
+  },
+  {
+    "id": "too_many_ideas_no_follow_through",
+    "n": "ایده‌های زیاد بدون پیگیری",
+    "cat": "neuro",
+    "updatedAt": "2026-11-07T20:36:54.897Z"
+  },
+  {
+    "id": "tradition_vs_personal_preference",
+    "n": "تعارض سنت و ترجیح شخصی",
+    "cat": "cultural",
+    "updatedAt": "2026-11-08T08:41:13.448Z"
+  },
+  {
+    "id": "trust_after_infidelity",
+    "n": "مشکل اعتماد بعد از خیانت",
+    "cat": "relation",
+    "updatedAt": "2026-11-07T21:35:15.685Z"
+  },
+  {
+    "id": "uneven_learning_profile",
+    "n": "یادگیری ناهمگون",
+    "cat": "neuro",
+    "updatedAt": "2026-11-07T20:38:29.337Z"
+  },
+  {
+    "id": "uneven_time_management",
+    "n": "مدیریت زمان ناهموار",
+    "cat": "neuro",
+    "updatedAt": "2026-11-07T20:28:15.452Z"
+  },
+  {
+    "id": "unexplained_vague_pain",
+    "n": "درد مبهم بدون توضیح پزشکی قطعی",
+    "cat": "body_signal",
+    "updatedAt": "2026-11-07T10:39:50.069Z"
+  },
+  {
+    "id": "unwanted_intrusive_thoughts",
+    "n": "افکار مزاحم ناخواسته",
+    "cat": "intrusive",
+    "updatedAt": "2026-11-05T18:48:05.244Z"
+  },
+  {
+    "id": "weak_boundaries_family_of_origin",
+    "n": "مرز ضعیف با خانواده مبدأ",
+    "cat": "relation",
+    "updatedAt": "2026-11-07T21:51:36.611Z"
+  },
+  {
+    "id": "weekend_emptiness",
+    "n": "تهی‌بودن آخر هفته (Weekend Emptiness)",
+    "cat": "burnout",
+    "updatedAt": "2026-11-05T15:17:25.124Z"
+  },
+  {
+    "id": "weight_anxiety",
+    "n": "اضطراب وزن",
+    "cat": "body_image",
+    "updatedAt": "2026-11-07T20:16:37.817Z"
+  },
+  {
+    "id": "what_if_thoughts",
+    "n": "افکار «اگر… آن وقت»",
+    "cat": "intrusive",
+    "updatedAt": "2026-11-05T18:56:48.297Z"
+  },
+  {
+    "id": "worrying_about_worrying",
+    "n": "نگرانی برای نگرانی",
+    "cat": "intrusive",
+    "updatedAt": "2026-11-05T18:59:13.436Z"
+  },
+  {
+    "id": "yo_yo_dieting",
+    "n": "رژیم‌های یویو",
+    "cat": "body_image",
+    "updatedAt": "2026-11-07T14:15:23.605Z"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {"id": "self", "n": "خودآگاهی", "icon": "i-user", "g": "linear-gradient(135deg,#8b7bb8,#6d5d9a)"},
+  {"id": "goal", "n": "هدف‌گذاری", "icon": "i-target", "g": "linear-gradient(135deg,#5b8a72,#3d6b56)"},
+  {"id": "dec", "n": "تصمیم‌گیری", "icon": "i-scale", "g": "linear-gradient(135deg,#3a7ca5,#2c5d7d)"},
+  {"id": "habit", "n": "عادت‌سازی", "icon": "i-refresh", "g": "linear-gradient(135deg,#e08a6b,#b86b4f)"},
+  {"id": "time", "n": "زمان و تمرکز", "icon": "i-clock", "g": "linear-gradient(135deg,#e07856,#b85a3e)"},
+  {"id": "career", "n": "شغل و مالی", "icon": "i-briefcase", "g": "linear-gradient(135deg,#7d6fb0,#5d5090)"},
+  {"id": "rel", "n": "روابط و مرزها", "icon": "i-users", "g": "linear-gradient(135deg,#d4a94a,#b8902f)"},
+  {"id": "mental", "n": "سلامت روان", "icon": "i-leaf", "g": "linear-gradient(135deg,#5b8a72,#3d6b56)"},
+  {"id": "stress", "n": "استرس و آرامش", "icon": "i-wind", "g": "linear-gradient(135deg,#4a9b9c,#357778)"},
+  {"id": "mind", "n": "ذهن‌آگاهی", "icon": "i-brain", "g": "linear-gradient(135deg,#8b7bb8,#6d5d9a)"},
+  {"id": "sexual", "n": "سلامت جنسی ۱۸+", "icon": "i-lock", "g": "linear-gradient(135deg,#c96b6e,#a04f52)"}
+]
